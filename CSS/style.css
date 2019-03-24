@@ -1,0 +1,94 @@
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+    transform: translateY(0);
+    max-height: 90px;
+    min-width: 45px;
+    background-color: #485054;
+}
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 1.5rem!important;
+    min-width: 50px;
+    min-height: 50px;
+    width: 100%;
+}
+.row{
+    width: 100%!important;
+}
+.name{
+    left: 5%;
+}
+.menu{
+    flex-direction: row !important;
+    justify-content: flex-end !important;
+    box-sizing: border-box;
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+    margin-bottom: 0;
+    margin-right: 20px;;
+}
+li{
+    display: list-item;
+    text-align: -webkit-match-parent;
+    margin-left: 15px !important;
+    margin-right: 15px !important;
+}
+.textMenu {
+    color: aliceblue !important;
+    text-anchor: start !important;
+    font-weight: 300 !important;
+    font-size: 20px;
+}
+.contend {
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.row{
+    text-align: -webkit-match-parent;
+}
+.col-sm{
+    text-align: center;
+}
+.contend{
+    text-align: center;
+}
+.main{
+    padding-top: 10px;
+    text-decoration: underline;
+}
+#highlights { 
+    padding-top: 40px !important;
+}
+.holder{
+    width: 100%;
+}
+.left{
+    text-align: left !important;
+}
+th{
+    font-weight: 100 !important;
+}
+a:link, a:visited{
+    text-decoration: none !important;
+}
+a:hover{
+    color:black !important;
+}
+a{
+    color: #485054 !important;
+}
+.btn{
+    width: 100% !important;
+    height: 100% !important;
+}
+.textLeft{
+    border-right: groove;
+    border-width: 0.5px;
+}
